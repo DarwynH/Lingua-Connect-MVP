@@ -1,13 +1,16 @@
-Run these two in a different CMD
-http://localhost:5173/   (Frontend (Vite + React on port 5173)
-http://localhost:4000    (Backend (Node.js + Express + Prisma on port 4000)
+Run these two in a different CMD:
+http://localhost:5173/   (The Frontend (Vite + React on port 5173)
+npm run dev
+
+http://localhost:4000    (The Backend (Node.js + Express + Prisma on port 4000)
+npm run dev
 
 npx prisma studio -> it opens the user database http://localhost:5555
 
 
 
-GitHub Folder Run:
-Ryan: cd "C:\Users\Ryan\Documents\GitHub\Lingua-Connect-MVP\Lingua-Connect-MVP" (For Frontend)
+GitHub Folder Location to run the localhost:
+Ryan: cd "C:\Users\Ryan\Documents\GitHub\Lingua-Connect-MVP\Lingua-Connect-MVP" (For Frontend )
 cd "C:\Users\Ryan\Documents\GitHub\Lingua-Connect-MVP\server" (For backend)
 
 Darwin:
